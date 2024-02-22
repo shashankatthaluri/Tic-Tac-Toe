@@ -29,7 +29,7 @@ This simple Python console game allows you to play Tic-Tac-Toe against another p
 2. Navigate to the project directory:
 
     ```bash
-    cd tic-tac-toe
+    cd Tic-Tac-Toe
     ```
 
 3. Run the game:
