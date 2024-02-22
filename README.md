@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game 🕹️
+# 🎮 tic-tac-toe Game 🕹️
 
 Welcome to the classic game of Tic-Tac-Toe! 🌟
 
